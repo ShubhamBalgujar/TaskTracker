@@ -7,4 +7,8 @@
 - Notifications are handled using Notifee and Firebase Cloud Messaging (FCM).
 
 # Clone
-git clone 
+git clone https://github.com/ShubhamBalgujar/TaskTracker.git
+
+# SetUp Steps:
+npm i
+pod install
